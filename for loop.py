@@ -35,10 +35,22 @@
 # 6 write the program to compute the cosine series
 # cos(x) = 1-x^2/2!+x^4/4!-x^6/6!+...+(-1)^n*x^(2n)/(2n)!
 
+#7 Write a python program to check whether the square root of number is prime or not
 
-
-# 7 Write a python program to check whether the square root of number is prime or not
-
+# n = int(input('Enter the value of n: '))
+# import math
+# def is_prime(num):
+#     if num < 2:
+#         return False
+#     for i in range(2, int(math.sqrt(num)) + 1):
+#         if num % i == 0:
+#             return False
+#     return True
+# sqrt_n = int(math.sqrt(n))
+# if is_prime(sqrt_n):
+#     print(f"The square root of {n} is {sqrt_n}, which is a prime number.")
+# else:
+#     print(f"The square root of {n} is {sqrt_n}, which is not a prime number.")
 
 # 8 Write a pattern
 # A B C 
