@@ -10,9 +10,11 @@
 
 # Function of string
 # name = 'Pragati'
+
 # print(name[0])
+
 # print(name.upper())
-# print(name.title())
+
 # print(name.capitalize())
 # print(name.count('a'))
 # print(name.find('a'))

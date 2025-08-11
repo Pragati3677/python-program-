@@ -23,3 +23,13 @@
 # print(name.index('Akshata'))
 # print(name)
 
+# tup = (10, 20, 30)
+# lst = list(tup)
+# print(lst) 
+# print(type(lst))  
+
+
+# lst = [1, 2, 3, 4]
+# tup = tuple(lst)
+# print(tup)  
+# print(type(tup))  
