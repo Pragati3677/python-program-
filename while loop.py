@@ -80,18 +80,18 @@
 # print(factorial)
 
 # 10 write a program to check whether the given number is prime or not
-n= int(input('Enter the number:'))
-is_prime = True
-i = 2
-while i*i <= n:
-    if n % i == 0:
-        is_prime = False
-        break
-    i += 1
-if is_prime and n > 1:
-    print(n, 'is a prime number')
-else:
-    print(n, 'is not a prime number')
+# n= int(input('Enter the number:'))
+# is_prime = True
+# i = 2
+# while i*i <= n:
+#     if n % i == 0:
+#         is_prime = False
+#         break
+#     i += 1
+# if is_prime and n > 1:
+#     print(n, 'is a prime number')
+# else:
+#     print(n, 'is not a prime number')
 
 
 
